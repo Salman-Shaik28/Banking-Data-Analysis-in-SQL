@@ -1,0 +1,35 @@
+branch_id,branch_name,branch_address,branch_location,city,state,zip_code,phone,manager_id
+1,BOB 202 Nehru Place,202 Nehru Place,Rural,Aligarh,Uttar Pradesh,202001,6371179026,1
+2,ICICI 56 Lake View,56 Lake View,Rural,Nainital,Uttarakhand,263001,7210371928,2
+3,SBI 55 Info Park,55 Info Park,Urban,Hyderabad,Telangana,500081,9844409601,3
+4,ICICI 22 Industrial Area,22 Industrial Area,Urban,Pune,Maharashtra,411001,6691639988,4
+5,AXIS 707 Brigade Road,707 Brigade Road,Urban,Bengaluru,Karnataka,560001,9585412600,5
+6,KMB 123 MG Road,123 MG Road,Rural,Ahmednagar,Maharashtra,414001,6954358002,6
+7,SBI 606 Juhu Beach,606 Juhu Beach,Urban,Mumbai,Maharashtra,400049,6964849183,7
+8,PNB 505 Hitech City,505 Hitech City,Urban,Hyderabad,Telangana,500081,9534389781,8
+9,PNB 44 Cyber City,44 Cyber City,Urban,Gurgaon,Haryana,122001,7969885595,9
+10,BOB 123 MG Road,123 MG Road,Rural,Ahmednagar,Maharashtra,414001,9228171771,10
+11,BOB 11 Silicon Valley,11 Silicon Valley,Urban,Bengaluru,Karnataka,560001,9167233731,11
+12,ICICI 707 Brigade Road,707 Brigade Road,Urban,Bengaluru,Karnataka,560001,9856626901,12
+13,INDUS 33 Central Park,33 Central Park,Urban,Mumbai,Maharashtra,400001,6320182763,13
+14,CANARA 707 Brigade Road,707 Brigade Road,Urban,Bengaluru,Karnataka,560001,7330983691,14
+15,KMB 505 Hitech City,505 Hitech City,Urban,Hyderabad,Telangana,500081,8966897328,15
+16,KMB 101 Residency Road,101 Residency Road,Rural,Mysuru,Karnataka,570001,6358863975,16
+17,BOB 78 Royal Street,78 Royal Street,Rural,Darjeeling,West Bengal,734101,9754385596,17
+18,ICICI 55 Info Park,55 Info Park,Urban,Hyderabad,Telangana,500081,6769235673,18
+19,INDUS 123 MG Road,123 MG Road,Rural,Ahmednagar,Maharashtra,414001,7575077301,19
+20,KMB 707 Brigade Road,707 Brigade Road,Urban,Bengaluru,Karnataka,560001,7654492343,20
+21,UBI 22 Industrial Area,22 Industrial Area,Urban,Pune,Maharashtra,411001,9359373403,21
+22,INDUS 101 Residency Road,101 Residency Road,Rural,Mysuru,Karnataka,570001,6947249298,22
+23,BOB 101 Residency Road,101 Residency Road,Rural,Mysuru,Karnataka,570001,6797854053,23
+24,AXIS 404 Connaught Place,404 Connaught Place,Urban,New Delhi,Delhi,110001,9290040601,24
+25,UBI 11 Silicon Valley,11 Silicon Valley,Urban,Bengaluru,Karnataka,560001,9732767478,25
+26,UBI 12 Green Avenue,12 Green Avenue,Rural,Jorhat,Assam,785001,7885233422,26
+27,HDFC 55 Info Park,55 Info Park,Urban,Hyderabad,Telangana,500081,6386453705,27
+28,INDUS 11 Silicon Valley,11 Silicon Valley,Urban,Bengaluru,Karnataka,560001,7177707867,28
+29,UBI 456 Park Street,456 Park Street,Rural,Nanded,Maharashtra,431601,6660733840,29
+30,PNB 78 Royal Street,78 Royal Street,Rural,Darjeeling,West Bengal,734101,6921489883,30
+31,SBI 34 Hill Road,34 Hill Road,Rural,Shimla,Himachal Pradesh,171001,6622896770,31
+32,CANARA 606 Juhu Beach,606 Juhu Beach,Urban,Mumbai,Maharashtra,400049,8793370404,32
+33,AXIS 12 Green Avenue,12 Green Avenue,Rural,Jorhat,Assam,785001,9457982481,33
+34,HDFC 303 Banjara Hills,303 Banjara Hills,Urban,Hyderabad,Telangana,500034,9179775388,34
